@@ -1,0 +1,6 @@
+{
+  "name": "I.R.I.S. — AI Study Best Friend & Learning Platform",
+  "description": "Intelligent Research, Innovation and Study. A next-generation AI study best friend, tutor, exam prep, productivity and digital learning universe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
